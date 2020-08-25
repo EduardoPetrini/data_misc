@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Olá Devs</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    
+    <string-array name="option_array">
+        <item>Opção 0</item>
+        <item>Opção 1</item>
+        <item>Opção 2</item>
+        <item>Opção 3</item>
+        <item>Opção 4</item>
+    </string-array>
+
+    <string-array name="lista_estados">
+        <item>Escolha um estado...</item>
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Paraná</item>
+        <item>Paraíba</item>
+        <item>Pará</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rio de Janeiro</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>Sergipe</item>
+        <item>São Paulo</item>
+        <item>Tocantins</item>
+    </string-array>
+
+</resources>
